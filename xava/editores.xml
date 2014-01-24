@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editores SYSTEM "dtds/editores.dtd">
+<editores>
+
+	<editor nombre="MAPA" url="mapaEditor.jsp" enmarcable="true">
+	
+	</editor>
+
+</editores>
